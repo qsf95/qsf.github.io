@@ -11,12 +11,12 @@ if ($(window).width() <= 1280) {
 }
 
 // Variables
-    tag1       = $('.pl__all'),
-    tag2       = $('.place_your_tag_name_here'),
-    tag3       = $('.place_your_tag_name_here'),
-    tag4       = $('.place_your_tag_name_here'),
-    tag5       = $('.place_your_tag_name_here'),
-    tag6       = $('.place_your_tag_name_here');
+    tag1       = $('.所有'),
+    tag2       = $('.美食'),
+    tag3       = $('. 美文'),
+    tag4       = $('. 美图'),
+    tag5       = $('. 饰品'),
+    tag6       = $('. 美甲');
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
     content    = $('#pjax'),
